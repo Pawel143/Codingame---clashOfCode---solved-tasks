@@ -1,13 +1,19 @@
 package Tasks.ReverseMode_1;
+import lombok.NoArgsConstructor;
+
 import java.util.*;
 
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class ReverseMode_1 {
+@NoArgsConstructor
+ public class ReverseMode_11 {
 
-    public static void main(String args[]) {
+
+
+
+    public static void  task() {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
         for (int i = 0; i < N; i++) {

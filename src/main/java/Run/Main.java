@@ -1,7 +1,10 @@
 package Run;
 
+import Tasks.ReverseMode_1.*;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("sda");
+       ReverseMode_11.task();
+
     }
 }
