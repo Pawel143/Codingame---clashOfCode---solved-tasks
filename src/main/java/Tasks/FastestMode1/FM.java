@@ -8,7 +8,6 @@ public class FM {
      * Auto-generated code below aims at helping you parse
      * the standard input according to the problem statement.
      **/
-    class Solution {
 
         public void task() {
             Scanner in = new Scanner(System.in);
@@ -30,4 +29,4 @@ public class FM {
             System.out.println(n);
         }
     }
-}
+
